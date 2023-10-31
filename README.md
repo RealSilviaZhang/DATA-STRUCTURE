@@ -1,2 +1,2 @@
 # DATA-STRUCTURE
-COSE213 data structures in C++
+KU COSE213 data structures in C++
